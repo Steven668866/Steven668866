@@ -36,8 +36,8 @@ const shihao = {
         gpa: "3.93/4.3",
         program: "URIS Research Student"
     },
-    currentFocus: ["Building Smart RAG Applications", "AI/LLM Integration", "Go Programming"],
-    interests: ["Web Development", "Data Analysis", "Linux Customization", "Algorithm Design"],
+    currentFocus: ["Multimodal LLM for Home Robots", "LLaMA3 Fine-tuning", "Real-time Computer Vision"],
+    interests: ["AI/ML Research", "Human-Robot Interaction", "Web Development", "Algorithm Design"],
     funFact: "Changing the world one commit at a time! 💻✨"
 };
 ```
@@ -48,7 +48,8 @@ const shihao = {
 - 📚 **Major**: Computer Science
 - 🌟 **GPA**: 3.93/4.3
 - 🔬 **URIS Research Student** - Undergraduate Research and Innovation Scheme
-- 💡 **Research Interests**: AI/ML, RAG Systems, Full-Stack Development
+- 💡 **Research Focus**: Multimodal LLM-Based Interaction System for Home Robots
+- 🤖 **Research Interests**: Multimodal AI, LLM Fine-tuning, Computer Vision, Human-Robot Interaction
 
 ## 🛠️ Tech Stack
 
@@ -76,9 +77,11 @@ const shihao = {
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🤖 AI & Machine Learning
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![LLaMA](https://img.shields.io/badge/-LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG_Systems-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![LLaMA3](https://img.shields.io/badge/-LLaMA3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -102,7 +105,7 @@ const shihao = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🤖 **Smart-Home-AI** | Smart Home AI System with RAG Support | Python, LLaMA, LangChain |
+| 🤖 **URIS: Multimodal Robot System** | LLM-Based Interaction System for Home Robots with Real-Time Adaptation. Integrating voice, gesture, and vision for intelligent home automation using LLaMA3 and ROS2 | Python, LLaMA3, YOLO, ROS2, PyTorch |
 | 🏫 **CMMS** | Campus Maintenance Management System | Python, SQLite, Tkinter |
 | 📚 **Algorithm Learning** | Java Algorithm Implementation & Learning | Java, Data Structures |
 | 💻 **C++ Practice** | C++ Algorithms & Data Structures Practice | C++, STL, Algorithms |
