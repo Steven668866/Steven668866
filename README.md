@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Shihao+Chen!;" />
 </h1>
 
-<h3 align="center">🚀 Full-Stack Developer | 🎓 CS Student @ PolyU | 💡 Tech Explorer</h3>
+<h3 align="center">🎓 CS Student @ PolyU</h3>
 
 <div align="center">
   
@@ -33,7 +33,7 @@ const shihao = {
     education: {
         university: "Hong Kong Polytechnic University",
         major: "Computer Science",
-        gpa: "3.93/4.0",
+        gpa: "3.93/4.3",
         program: "URIS Research Student"
     },
     currentFocus: ["Building Smart RAG Applications", "AI/LLM Integration", "Go Programming"],
@@ -46,7 +46,7 @@ const shihao = {
 
 - 🏫 **University**: Hong Kong Polytechnic University
 - 📚 **Major**: Computer Science
-- 🌟 **GPA**: 3.93/4.0
+- 🌟 **GPA**: 3.93/4.3
 - 🔬 **URIS Research Student** - Undergraduate Research and Innovation Scheme
 - 💡 **Research Interests**: AI/ML, RAG Systems, Full-Stack Development
 
@@ -94,14 +94,6 @@ const shihao = {
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Steven668866&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Shihao Chen github stats" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven668866&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steven668866&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="Shihao's streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Steven668866&custom_title=Shihao's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00b3ff&line=00b3ff&point=FFFFFF&area_color=00b3ff&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🔥 Current Projects
