@@ -27,20 +27,24 @@
 
 ## 🎯 About Me
 
-```javascript
-const shihao = {
-    location: "Hong Kong 🇭🇰",
-    education: {
-        university: "Hong Kong Polytechnic University",
-        major: "Computer Science",
-        gpa: "3.93/4.3",
-        program: "URIS Research Student"
-    },
-    currentFocus: ["Multimodal LLM for Home Robots", "LLaMA3 Fine-tuning", "Real-time Computer Vision"],
-    interests: ["AI/ML Research", "Human-Robot Interaction", "Web Development", "Algorithm Design"],
-    funFact: "Changing the world one commit at a time! 💻✨"
-};
-```
+<div align="center">
+
+🌍 Based in **Hong Kong** | 🎓 **Computer Science** @ PolyU | ⭐ **GPA: 3.93/4.3**
+
+🔬 **URIS Research Student** focusing on Multimodal AI and Robotics
+
+</div>
+
+### 🚀 Current Focus
+- 🤖 Multimodal LLM for Home Robots
+- 🔥 LLaMA3 Fine-tuning
+- 👁️ Real-time Computer Vision
+
+### 💡 Interests
+- AI/ML Research
+- Human-Robot Interaction
+- Web Development
+- Algorithm Design
 
 ## 🎓 Academic Information
 
