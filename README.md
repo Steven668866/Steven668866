@@ -95,14 +95,6 @@
 
 </div>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Steven668866&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Shihao Chen github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven668866&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</div>
-
 ## 🔥 Current Projects
 
 <div align="center">
