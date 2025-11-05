@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shihao+Chen!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Shihao+Chen!;" />
 </h1>
 
-<h3 align="center">🚀 全栈开发者 | 🎓 香港理工大学计算机科学学生 | 💡 技术探索者</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🎓 CS Student @ PolyU | 💡 Tech Explorer</h3>
 
 <div align="center">
   
@@ -25,33 +25,36 @@
 
 <br/>
 
-## 🎯 关于我
+## 🎯 About Me
 
 ```javascript
 const shihao = {
-    location: "香港 🇭🇰",
-    education: "Hong Kong Polytechnic University - Computer Science",
+    location: "Hong Kong 🇭🇰",
+    education: {
+        university: "Hong Kong Polytechnic University",
+        major: "Computer Science",
+        gpa: "3.93/4.0",
+        program: "URIS Research Student"
+    },
     currentFocus: ["Building Smart RAG Applications", "AI/LLM Integration", "Go Programming"],
     interests: ["Web Development", "Data Analysis", "Linux Customization", "Algorithm Design"],
-    funFact: "我用代码改变世界，一次一个commit! 💻✨"
+    funFact: "Changing the world one commit at a time! 💻✨"
 };
 ```
 
-## 💼 工作经历
+## 🎓 Academic Information
 
-🎯 **2x 实习生 @ 杭州科技公司**
-- 🤖 全栈开发 & AI 应用开发
-- 🌟 参与多个生产级项目的开发与部署
+- 🏫 **University**: Hong Kong Polytechnic University
+- 📚 **Major**: Computer Science
+- 🌟 **GPA**: 3.93/4.0
+- 🔬 **URIS Research Student** - Undergraduate Research and Innovation Scheme
+- 💡 **Research Interests**: AI/ML, RAG Systems, Full-Stack Development
 
-🚀 **5+ Web项目创建者**
-- ⚛️ React/Vue + Spring/Python 技术栈
-- 🏗️ 从0到1构建完整的Web应用系统
-
-## 🛠️ 技术栈
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 前端开发
+### 💻 Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -59,7 +62,7 @@ const shihao = {
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ 后端开发
+### ⚙️ Backend Development
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -67,17 +70,17 @@ const shihao = {
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🗄️ 数据库
+### 🗄️ Databases
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🤖 AI & 机器学习
+### 🤖 AI & Machine Learning
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/-LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG_Systems-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 
-### 🔧 工具 & 平台
+### 🔧 Tools & Platforms
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -85,7 +88,7 @@ const shihao = {
 
 </div>
 
-## 📊 GitHub 统计
+## 📊 GitHub Statistics
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Steven668866&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Shihao Chen github stats" /> 
@@ -101,25 +104,25 @@ const shihao = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Steven668866&custom_title=Shihao's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00b3ff&line=00b3ff&point=FFFFFF&area_color=00b3ff&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🔥 当前项目
+## 🔥 Current Projects
 
 <div align="center">
 
-| 项目 | 描述 | 技术栈 |
-|------|------|--------|
-| 🤖 **Smart-Home-AI** | 智能家居AI系统，支持RAG应用 | Python, LLaMA, LangChain |
-| 🏫 **CMMS** | 校园维护管理系统 | Python, SQLite, Tkinter |
-| 📚 **Algorithm Learning** | Java算法学习与实现 | Java, Data Structures |
-| 💻 **C++ Practice** | C++算法与数据结构练习 | C++, STL, Algorithms |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 **Smart-Home-AI** | Smart Home AI System with RAG Support | Python, LLaMA, LangChain |
+| 🏫 **CMMS** | Campus Maintenance Management System | Python, SQLite, Tkinter |
+| 📚 **Algorithm Learning** | Java Algorithm Implementation & Learning | Java, Data Structures |
+| 💻 **C++ Practice** | C++ Algorithms & Data Structures Practice | C++, STL, Algorithms |
 
 </div>
 
-## 📈 编程活动
+## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## 📫 联系方式
+## 📫 Connect With Me
 
 <div align="center">
   
@@ -133,13 +136,12 @@ const shihao = {
 
 <div align="center">
   
-  ### 💭 名言金句
+  ### 💭 Quote of the Day
   
-  *"代码如诗，调试如禅。"*
+  *"Code is like poetry; debugging is like meditation."*
   
   <img src="https://komarev.com/ghpvc/?username=Steven668866&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
 </div>
-
